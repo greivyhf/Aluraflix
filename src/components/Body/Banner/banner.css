@@ -1,0 +1,66 @@
+:root{
+    --color-titulo:#efecc6;
+    --color-texto: #9ae5f4;
+    --fondo-semitransparente-oscuro:#000000bd;
+
+}
+.fondo{
+    position: relative;
+    background-image: url(../../../assets/imagen/f-banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+}
+.canva{
+    position: relative;
+    z-index: 2;
+}
+.fondo-div{
+    position: absolute;
+    top: 0;
+    left: 5%;
+    width: 50%;
+    height: 100%;
+    background-color: var(--fondo-semitransparente-oscuro);
+    border-radius: 10px 10px 0px 0px  ;
+    padding: 10px;
+    box-sizing: border-box;
+    z-index: 1;
+   
+}
+.titulo-banner{
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.250rem;
+    font-weight: 600;
+    color: var(--color-titulo) ;
+    padding: 10px;
+}
+.texto-banner{
+    font-family: 'Roboto', sans-serif;
+    padding:10px;
+    color: var(--color-texto);
+    font-size:1.125rem;
+    font-weight: 100;
+}
+.firma{
+    font-family: 'Fuggles', sans-serif;
+    padding:10px;
+    color: var(--color-texto);
+    font-size:2.125rem; 
+}
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items:baseline;
+}
+.audiovisual{
+    height: 150px;
+    padding: 10px;
+    margin-top: 100px;
+    text-shadow: 20px #efecc6;
+}
+
+

@@ -1,0 +1,13 @@
+.contenedor-Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding: 5px 40px;
+    /* border: 1px solid #299bc7; */
+    background-color: #0084ae;
+}
+.logo{
+    height: 80px;
+}
+

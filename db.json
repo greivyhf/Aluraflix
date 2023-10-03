@@ -1,0 +1,91 @@
+{
+    "categoria":[
+        {
+            "titulo":"Agricultura Sostenible",
+            "descripcion":"debe cubrir las necesidades alimentarias y textiles de las presentes y futuras generaciones sin poner en peligro la salud del medio ambiente",
+            "color":"",
+            "codigo":"8c7de030-9cb7-473d-a008-178c36e424e8"
+        },
+        {
+            "titulo":"Energias Renovables",
+            "descripcion":"Las energías renovables son un tipo de energías derivadas de fuentes naturales que llegan a reponerse más rápido de lo que pueden consumirse",
+            "color":"",
+            "codigo":"c4fa2a53-3ef3-43ea-9771-cb7d8246c4d0"
+        },
+        {
+            "titulo":"Cambio Climatico",
+            "descripcion":"So los cambios a largo plazo de las temperaturas y los patrones climáticos, pueden ser naturales, o por causa humana.",
+            "color":"",
+            "codigo":"3469bccc-8615-468a-ae62-28c143d6efed"
+        }
+    ],
+    "videos":[
+        {   
+            "categoria":"Agricultura Sostenible",
+            "titulo":"Hidroponia",
+            "descripcion":"método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola. Las raíces reciben una solución nutritiva y equilibrada disuelta en agua con los elementos químicos esenciales para el desarrollo de las plantas, que pueden crecer en una solución acuosa únicamente, o bien en un medio inerte, como arena lavada, grava o perlita, entre muchas otras.",
+            "linkVideo":"",
+            "linkImagen":"./assets/carrusel/a.jpg",
+            "codigo":"ac331f4c-d7b1-4f8c-a6c8-f6449ef06e07"
+        },
+        {   
+            "categoria":"Agricultura Sostenible",
+            "titulo":"Hidroponia",
+            "descripcion":"método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola. Las raíces reciben una solución nutritiva y equilibrada disuelta en agua con los elementos químicos esenciales para el desarrollo de las plantas, que pueden crecer en una solución acuosa únicamente, o bien en un medio inerte, como arena lavada, grava o perlita, entre muchas otras.",
+            "linkVideo":"",
+            "linkImagen":"./assets/carrusel/a.jpg",
+            "codigo":"ac331f4c-d7b1-4f8c-a6c8-f6449ef06e07"
+        },
+        {   
+            "categoria":"Agricultura Sostenible",
+            "titulo":"Hidroponia",
+            "descripcion":"método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola. Las raíces reciben una solución nutritiva y equilibrada disuelta en agua con los elementos químicos esenciales para el desarrollo de las plantas, que pueden crecer en una solución acuosa únicamente, o bien en un medio inerte, como arena lavada, grava o perlita, entre muchas otras.",
+            "linkVideo":"",
+            "linkImagen":"./assets/carrusel/a.jpg",
+            "codigo":"ac331f4c-d7b1-4f8c-a6c8-f6449ef06e07"
+        },
+        {   
+            "categoria":"Agricultura Sostenible",
+            "titulo":"Hidroponia",
+            "descripcion":"método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola. Las raíces reciben una solución nutritiva y equilibrada disuelta en agua con los elementos químicos esenciales para el desarrollo de las plantas, que pueden crecer en una solución acuosa únicamente, o bien en un medio inerte, como arena lavada, grava o perlita, entre muchas otras.",
+            "linkVideo":"",
+            "linkImagen":"./assets/carrusel/a.jpg",
+            "codigo":"ac331f4c-d7b1-4f8c-a6c8-f6449ef06e07"
+        },
+        {   
+            "categoria":"Agricultura Sostenible",
+            "titulo":"Hidroponia",
+            "descripcion":"método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola. Las raíces reciben una solución nutritiva y equilibrada disuelta en agua con los elementos químicos esenciales para el desarrollo de las plantas, que pueden crecer en una solución acuosa únicamente, o bien en un medio inerte, como arena lavada, grava o perlita, entre muchas otras.",
+            "linkVideo":"",
+            "linkImagen":"./assets/carrusel/a.jpg",
+            "codigo":"ac331f4c-d7b1-4f8c-a6c8-f6449ef06e07"
+        },
+        {   
+            "categoria":"Agricultura Sostenible",
+            "titulo":"Hidroponia",
+            "descripcion":"método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola. Las raíces reciben una solución nutritiva y equilibrada disuelta en agua con los elementos químicos esenciales para el desarrollo de las plantas, que pueden crecer en una solución acuosa únicamente, o bien en un medio inerte, como arena lavada, grava o perlita, entre muchas otras.",
+            "linkVideo":"",
+            "linkImagen":"./assets/carrusel/a.jpg",
+            "codigo":"ac331f4c-d7b1-4f8c-a6c8-f6449ef06e07"
+        },
+        {   
+            "categoria":"Agricultura Sostenible",
+            "titulo":"Hidroponia",
+            "descripcion":"método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola. Las raíces reciben una solución nutritiva y equilibrada disuelta en agua con los elementos químicos esenciales para el desarrollo de las plantas, que pueden crecer en una solución acuosa únicamente, o bien en un medio inerte, como arena lavada, grava o perlita, entre muchas otras.",
+            "linkVideo":"",
+            "linkImagen":"./assets/carrusel/a.jpg",
+            "codigo":"ac331f4c-d7b1-4f8c-a6c8-f6449ef06e07"
+        },
+        {   
+            "categoria":"Agricultura Sostenible",
+            "titulo":"Hidroponia",
+            "descripcion":"método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola. Las raíces reciben una solución nutritiva y equilibrada disuelta en agua con los elementos químicos esenciales para el desarrollo de las plantas, que pueden crecer en una solución acuosa únicamente, o bien en un medio inerte, como arena lavada, grava o perlita, entre muchas otras.",
+            "linkVideo":"",
+            "linkImagen":"./assets/carrusel/a.jpg",
+            "codigo":"ac331f4c-d7b1-4f8c-a6c8-f6449ef06e07"
+        }
+    ]
+     
+}
+
+
