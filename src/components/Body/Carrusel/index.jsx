@@ -7,7 +7,7 @@ import {a1,b1,c1,d1,e1,f1,g1,h1,a2,b2,c2,d2,e2,f2,g2,h2,a3,b3,c3,d3,e3,f3,g3,h3}
 const ContenedorA =styled.div`
     padding: 50px 0;
     border: 1px solid #464646;
-    background-color:#00000080;
+    background-color:#00000060;
 `
 const ContenedorB=styled.div`
     display: flex;
@@ -95,8 +95,8 @@ const Carrusel =({titulo, descripcion, colorFondoBoton})=>{
                     navigation
                     pagination={{ clickable: true }}
                     scrollbar={{ draggable: true }}
-                    onSwiper={() => console.log('swiper')}
-                    onSlideChange={() => console.log('slide change')}
+                    onSwiper={() => ''}
+                    onSlideChange={() => ''}
                     onClick={(e)=>console.log(e)}
                 >
                 <SwiperSlide><img src={a1}/></SwiperSlide>
@@ -120,8 +120,8 @@ const Carrusel =({titulo, descripcion, colorFondoBoton})=>{
                     navigation
                     pagination={{ clickable: true }}
                     scrollbar={{ draggable: true }}
-                    onSwiper={() => console.log('swiper')}
-                    onSlideChange={() => console.log('slide change')}
+                    onSwiper={() => ''}
+                    onSlideChange={() => ''}
                     onClick={(e)=>console.log(e)}
                 >
                 <SwiperSlide><img src={a2}/></SwiperSlide>
@@ -134,7 +134,7 @@ const Carrusel =({titulo, descripcion, colorFondoBoton})=>{
                 <SwiperSlide><img src={h2}/></SwiperSlide>
             </Swiper>
             <ContenedorB>
-                <ColorTres>Cambio</ColorTres>
+                <ColorTres>Cambio Climatico</ColorTres>
                 <Texto>Debe cubrir las necesidades alimentarias y textiles de las presentes y futuras generaciones sin poner en peligro la salud del medio ambiente</Texto>
             </ContenedorB>
             <Swiper
@@ -145,8 +145,8 @@ const Carrusel =({titulo, descripcion, colorFondoBoton})=>{
                     navigation
                     pagination={{ clickable: true }}
                     scrollbar={{ draggable: true }}
-                    onSwiper={() => console.log('swiper')}
-                    onSlideChange={() => console.log('slide change')}
+                    onSwiper={() => ''}
+                    onSlideChange={() => ''}
                     onClick={(e)=>console.log(e)}
                 >
                 <SwiperSlide><img src={a3}/></SwiperSlide>
